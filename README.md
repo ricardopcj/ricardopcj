@@ -3,8 +3,6 @@
 I'm Ricardo. :)
 This profile is under construction, so when do i have more time, i will add more stuff, promise.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardopcj/)](https://www.linkedin.com/in/ricardopcj/)
-
 ![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardopcj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ricardopcj&layout=compact&theme=dracula&langs_count=8)
 
